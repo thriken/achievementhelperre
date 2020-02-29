@@ -1,5 +1,5 @@
 ## Interface: 80300
-## Title: 1337 Achievement Helper
+## Title: Achievement Helper Re
 ## Author: Timmy2250,Thriken(modify)
 ## Version: 1.6.1
 ## URL: https://www.curseforge.com/wow/addons/achievementhelperre
