@@ -10,4 +10,4 @@
 ## LoadOnDemand: 0
 
 Locales.lua
-achievementhelperRE.lua
+AchievementHelperRe.lua
