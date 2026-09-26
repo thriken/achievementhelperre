@@ -183,9 +183,11 @@ local function ProcessTooltip(tooltip, itemID)
 	if not label then return end
 
 	if completed then
-		tooltip:AddLine(label.name .. "：" .. label.done, 0.6, 0.6, 0.6)
+		-- 已使用：深绿色
+		tooltip:AddLine(label.name .. "：" .. label.done, 0.0, 0.55, 0.0)
 	else
-		tooltip:AddLine(label.name .. "：" .. label.todo, 0.1, 1.0, 0.1)
+		-- 未使用：红色
+		tooltip:AddLine(label.name .. "：" .. label.todo, 1.0, 0.1, 0.1)
 	end
 end
 
