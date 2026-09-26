@@ -1,0 +1,13 @@
+## Interface: 120100
+## Title: |cff880303[AHRE]|r Achievement Helper Re
+## Title-zhCN: |cff880303[AHRE]|r 成就物品提示Re
+## Title-zhTW: |cff880303[AHRE]|r 成就物品提示Re
+## Author: Timmy2250,Thriken(modify)
+## Version: 12.0.1-20260926
+## URL: https://www.curseforge.com/wow/addons/achievementhelperre
+## Notes-zhCN: 在物品鼠标提示中标记成就所需的食物 / 饮料 / 装备，并显示"可使用 / 已使用"
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+Locales.lua
+achievementhelperRE.lua
